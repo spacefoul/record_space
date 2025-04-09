@@ -22,7 +22,17 @@
 - 주말은 복습 or 정리
 - 최대한 공백 없이 꾸준히!
 
+## 🫧 카테고리 의미 정리
 
+| 상위 폴더 | 설명 |
+|-----------|------|
+| `basic/`      | 초급 수준 구현, 문자열, 수학, 정렬 등 |
+| `search/`     | 탐색 관련 알고리즘 전반 (완전탐색, 이분탐색, 투포인터 등) |
+| `graph/`      | 그래프 기반 알고리즘 |
+| `dp/`         | 동적 계획법 (기본, 고급, 상태압축 등) |
+| `etc/`        | 분류가 애매하거나 희귀 알고리즘 |
+
+---
 
 ![spacefoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacefoul&show_icons=true&theme=tokyonight)
 
