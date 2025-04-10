@@ -15,7 +15,7 @@
 > `문제번호_YYMMDD`  
 > 예시: `1010_250410`  
 > 💡 커밋 메시지 형식
-> `문제번호: 이름` 
+> `문제번호: 문제이름` 
 
 
 
@@ -32,7 +32,7 @@
 ![spacefoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacefoul&show_icons=true&theme=tokyonight)
 
 ### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
