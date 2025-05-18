@@ -28,7 +28,6 @@
 
 ---
 
-![spacefoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacefoul&show_icons=true&theme=tokyonight)
 
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
